@@ -11,3 +11,7 @@ elif input_case == "4":
     print(value_1 / value_2)
 else:
     print("Ошибка введенных данных")
+
+    это не калькулятор
+
+
