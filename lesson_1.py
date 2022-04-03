@@ -19,3 +19,4 @@ except ZeroDivisionError:
     print("Делить на ноль нельзя")
 
 
+
